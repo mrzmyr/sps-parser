@@ -1,0 +1,25 @@
+{
+  "name": "sps-parser",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrzmyr/sps-parser.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrzmyr/sps-parser/issues"
+  },
+  "homepage": "https://github.com/mrzmyr/sps-parser#readme",
+  "devDependencies": {
+    "ava": "^0.24.0"
+  }
+}
